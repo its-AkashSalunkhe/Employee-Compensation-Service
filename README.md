@@ -45,22 +45,27 @@ The functions will be available at `http://localhost:7071/api/...`
 ### CURD Operation
 
 <p align="center">
-<img src="output_screenshots/create.png" width="100%">
-<img src="output_screenshots/read.png" width="100%">
-<img src="output_screenshots/update_put_patch.png" width="100%">
-<img src="output_screenshots/delelte.png" width="100%">
+<img src="output_screenshots/create.png" width=25%">
+<img src="output_screenshots/read.png" width="25%">
+<img src="output_screenshots/update_put_patch.png" width="25%">
+<img src="output_screenshots/delelte.png" width="25%">
 </p>
 
 ### Bonus Percentage, Ranking and Employee with No Bonus
 
 <p align="center">
-<img src="output_screenshots/bonus_percentage.png" width="100%"> 
-<img src="output_screenshots/bonus_ranking.png" width="100%">
-<img src="output_screenshots/no_bonus.png" width="100%">
+<img src="output_screenshots/bonus_percentage.png" width="33%"> 
+<img src="output_screenshots/bonus_ranking.png" width="33%">
+<img src="output_screenshots/no_bonus.png" width="33%">
 </p>
 
-![Departments](assets/images/screenshot.png)
+### Employee Departments
 
+<p align="left">
+<img src="output_screenshots/departments.png" width="25%"> 
+</p>
+
+```
 
 ## Endpoints
 
