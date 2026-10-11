@@ -54,9 +54,9 @@ The functions will be available at `http://localhost:7071/api/...`
 ### Bonus Percentage, Ranking and Employee with No Bonus
 
 <p align="center">
-<img src="output_screenshots/bonus_percentage.png" width="33%"> 
-<img src="output_screenshots/bonus_ranking.png" width="33%">
-<img src="output_screenshots/no_bonus.png" width="33%">
+<img src="output_screenshots/bonus_percentage.png" width="30%"> 
+<img src="output_screenshots/bonus_ranking.png" width="30%">
+<img src="output_screenshots/no_bonus.png" width="30%">
 </p>
 
 ### Employee Departments
