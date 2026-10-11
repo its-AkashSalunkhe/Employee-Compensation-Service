@@ -45,10 +45,10 @@ The functions will be available at `http://localhost:7071/api/...`
 ### CURD Operation
 
 <p align="center">
-<img src="output_screenshots/create.png" width=25%">
-<img src="output_screenshots/read.png" width="25%">
-<img src="output_screenshots/update_put_patch.png" width="25%">
-<img src="output_screenshots/delete.png" width="25%">
+<img src="output_screenshots/create.png" width=22%">
+<img src="output_screenshots/read.png" width="22%">
+<img src="output_screenshots/update_put_patch.png" width="22%">
+<img src="output_screenshots/delete.png" width="22%">
 </p>
 
 ### Bonus Percentage, Ranking and Employee with No Bonus
