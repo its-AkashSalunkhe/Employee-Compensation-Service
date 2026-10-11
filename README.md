@@ -40,6 +40,28 @@ The functions will be available at `http://localhost:7071/api/...`
 
 `local.settings.json` is in `.gitignore`, so the connection string is not committed.
 
+## Sample Output
+
+### CURD Operation
+
+<p align="center">
+<img src="output_screenshots/create.png" width="100%">
+<img src="output_screenshots/read.png" width="100%">
+<img src="output_screenshots/update_put_patch.png" width="100%">
+<img src="output_screenshots/delelte.png" width="100%">
+</p>
+
+### Bonus Percentage, Ranking and Employee with No Bonus
+
+<p align="center">
+<img src="output_screenshots/bonus_percentage.png" width="100%"> 
+<img src="output_screenshots/bonus_ranking.png" width="100%">
+<img src="output_screenshots/no_bonus.png" width="100%">
+</p>
+
+![Departments](assets/images/screenshot.png)
+
+
 ## Endpoints
 
 Employees (Part A)
