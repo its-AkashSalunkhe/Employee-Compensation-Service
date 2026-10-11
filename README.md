@@ -65,7 +65,6 @@ The functions will be available at `http://localhost:7071/api/...`
 <img src="output_screenshots/departments.png" width="25%"> 
 </p>
 
-```
 
 ## Endpoints
 
